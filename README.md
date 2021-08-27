@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakaa "Ahmed El-saka"
+- 👋 Hi, I’m @Sakaa "Ahmed El-Sakka"
 - 👀 I’m interested in ... Programming With JavaScript
 - 🌱 I’m currently learning ... Node.js 
 - 💞️ I’m looking to collaborate on ... "Google"
