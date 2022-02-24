@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Sakaa "Ahmed ElSaka"
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... "Google"
-- 📫 How to reach me ... 
+- 👀 I’m interested in ... Web Designer
+- 🌱 I’m currently learning ... Vue.js
